@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27f139b3-f98a-46ee-835d-d46c4974636f" name="Changes" comment="" />
+    <list default="true" id="27f139b3-f98a-46ee-835d-d46c4974636f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../hola-mundo-jdk8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola-mundo-jdk8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola-mundo-jdk8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola-mundo-jdk8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola-mundo-jdk8/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola-mundo-jdk8/hola-mundo-jdk8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola-mundo-jdk8/src/HolaMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola-mundo-jdk8/src/UpdatingVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola-mundo-jdk8/src/Variables.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +30,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2VPFhnzYoROUjrx79uGv5X6lKkK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,6 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/lacen/develop/java-course-basic/jdk_8",
     "onboarding.tips.debug.path": "C:/Users/lacen/develop/java-course-basic/hola-mundo-jdk8/src/Main.java"
   }
 }]]></component>
