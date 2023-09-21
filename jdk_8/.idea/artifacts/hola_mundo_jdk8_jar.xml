@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="hola-mundo-jdk8:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hola_mundo_jdk8_jar</output-path>
+    <root id="archive" name="hola-mundo-jdk8.jar">
+      <element id="module-output" name="hola-mundo-jdk8" />
+    </root>
+  </artifact>
+</component>
