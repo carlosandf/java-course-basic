@@ -31,6 +31,14 @@ public class Functions {
         return (4/3) * Math.PI * Math.pow(radio, 3);
     }
 
+    /**
+     * Descripción: Función, que especificando su moneda, convierte una cantidad de dinero a el equivalente en USD
+     *
+     * @param quantity Cantidad de dinero
+     * @param currency Tipo de moneda ("MXN" o "COP")
+     * @return quantity: Devuelve la cantidad actualizada en USD
+     * @code function
+     * */
     public static double convertToDollar (double quantity, String currency) {
         switch (currency) {
             case "MXN":
